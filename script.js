@@ -13,4 +13,6 @@ console.log(btn);
 btn.addEventListener("click", createTask);
 
 
+//clase02
+
 
